@@ -37,9 +37,9 @@ flutter:
      - images/profile.JPG
 
   fonts:
-    - family: Pacifico
+    - family: Redressed
       fonts:
-        - asset: fonts/Pacifico-Regular.ttf
+        - asset: fonts/Redressed-Regular.ttf
 
     - family: SourceSansPro
       fonts:
